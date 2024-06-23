@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/FernandoHuilca/Aquitectura_de_Von_Neumann/assets/134117009/8bf4cea9-4b98-4b67-a7c7-b30667f3df57"></td>
-    <td><img src="https://github.com/FernandoHuilca/Aquitectura_de_Von_Neumann/assets/134117009/8168c9f6-fd3a-4223-be8f-9d22f44e2f4f" alt="image2"></td>
+    <td><img src="https://github.com/FernandoHuilca/Electronica_and_Software/assets/134117009/a16f6b52-2441-40e3-9f08-43caf7eb58cb"></td>
+    <td><img src="https://github.com/FernandoHuilca/Electronica_and_Software/assets/134117009/618f1908-c911-4cc7-8f50-480902ea64e3" alt="image2"></td>
   </tr>
 
 </table>
